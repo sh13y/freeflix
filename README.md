@@ -1,4 +1,4 @@
-# 🎬 FreeFlix — Vintage Movie Streaming
+# 🎬 FreeFlix - Vintage Movie Streaming
 
 A vintage-inspired, pastel-themed movie and TV streaming website built with pure HTML, CSS, and vanilla JavaScript. Fast-loading, responsive, and beautifully designed.
 
@@ -9,13 +9,13 @@ A vintage-inspired, pastel-themed movie and TV streaming website built with pure
 
 ## ✨ Features
 
-- **🎞️ Browse Movies & TV Shows** — Trending, popular, and top-rated content
-- **🔍 Search** — Real-time multi-search across movies and TV shows
-- **📺 Stream** — Embedded video player powered by VidSrc API
-- **🎭 Genre Filtering** — Filter content by genre
-- **📱 Fully Responsive** — Works on desktop, tablet, and mobile
-- **⚡ Fast Loading** — Zero frameworks, pure vanilla stack
-- **🎨 Vintage Pastel Design** — Warm cream tones, serif typography, film grain overlay
+- **🎞️ Browse Movies & TV Shows** - Trending, popular, and top-rated content
+- **🔍 Search** - Real-time multi-search across movies and TV shows
+- **📺 Stream** - Embedded video player powered by VidSrc API
+- **🎭 Genre Filtering** - Filter content by genre
+- **📱 Fully Responsive** - Works on desktop, tablet, and mobile
+- **⚡ Fast Loading** - Zero frameworks, pure vanilla stack
+- **🎨 Vintage Pastel Design** - Warm cream tones, serif typography, film grain overlay
 
 ## 🛠️ Tech Stack
 
@@ -80,4 +80,4 @@ This project is for **educational purposes only**. It does not host, store, or d
 
 ## 📄 License
 
-WTFPL (Do What The F*ck You Want To Public License) — feel free to fork and customize!
+WTFPL (Do What The F*ck You Want To Public License) - feel free to fork and customize!
