@@ -80,4 +80,4 @@ This project is for **educational purposes only**. It does not host, store, or d
 
 ## 📄 License
 
-MIT License — feel free to fork and customize!
+WTFPL (Do What The F*ck You Want To Public License) — feel free to fork and customize!
